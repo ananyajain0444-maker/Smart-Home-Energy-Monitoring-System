@@ -68,22 +68,22 @@ Visualization + Reports
 
 ---
 
-## 📊 Generated Outputs
+## 📊 Visual Outputs
 
-After running the project, you will get:
+### Dashboard Preview
+![Dashboard](./outputs/dashboard_preview.png)
 
-### 📁 Images
-- dashboard_preview.png  
-- energy_usage_chart.png  
-- monthly_cost_chart.png  
-- alert_notification.png  
-- pdf_report_preview.png  
+### Energy Usage Chart
+![Energy Usage](./outputs/energy_usage_chart.png)
 
-### 📁 Reports
-- energy_report.csv  
-- monthly_report.pdf  
+### Monthly Cost Chart
+![Cost](./outputs/monthly_cost_chart.png)
 
----
+### Alert Notification
+![Alert](./outputs/alert_notification.png)
+
+### PDF Report Preview
+![Report](./outputs/pdf_report_preview.png)
 
 ## 📈 Key Modules
 
