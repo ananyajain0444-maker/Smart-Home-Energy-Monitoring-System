@@ -63,11 +63,6 @@ Smart-Home-Energy-Monitoring-System/
 │   ├── alert_notification.png
 │   └── pdf_report_preview.png
 │
-├── docs/
-│   ├── hardware_setup.md
-│   ├── software_setup.md
-│   └── interview_questions.md
-│
 ├── main.py
 ├── requirements.txt
 ├── README.md
