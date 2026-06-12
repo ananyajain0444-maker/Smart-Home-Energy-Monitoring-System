@@ -37,16 +37,42 @@ This project simulates a smart energy monitoring system using **Arduino for data
 
 Smart-Home-Energy-Monitoring-System/
 │
-├── arduino_code/ # Arduino sensor simulation code
-├── python_simulation/ # Core Python processing modules
-├── data/ # Raw energy data (CSV)
-├── outputs/ # Generated reports (CSV, PDF)
-├── images/ # Visualization charts
-├── docs/ # Documentation files
-├── main.py # Main execution file
-├── requirements.txt # Python dependencies
-├── LICENSE # MIT License
-└── .gitignore # Ignored files list
+├── arduino_code/
+│   └── energy_monitor.ino
+│
+├── python_simulation/
+│   ├── data_generator.py
+│   ├── energy_calculator.py
+│   ├── cost_estimator.py
+│   ├── alert_system.py
+│   ├── report_generator.py
+│   └── visualizer.py
+│
+├── data/
+│   ├── energy_data.csv
+│   └── sample_energy_data.csv
+│
+├── outputs/
+│   ├── energy_report.csv
+│   └── monthly_report.pdf
+│
+├── images/
+│   ├── dashboard_preview.png
+│   ├── energy_usage_chart.png
+│   ├── monthly_cost_chart.png
+│   ├── alert_notification.png
+│   └── pdf_report_preview.png
+│
+├── docs/
+│   ├── hardware_setup.md
+│   ├── software_setup.md
+│   └── interview_questions.md
+│
+├── main.py
+├── requirements.txt
+├── README.md
+├── LICENSE
+└── .gitignore
 
 
 ---
