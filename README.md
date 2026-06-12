@@ -54,9 +54,8 @@ Smart-Home-Energy-Monitoring-System/
 │   └── sample_energy_data.csv
 │
 ├── outputs/
-│   ├── energy_report.csv
-│   └── monthly_report.pdf
-│
+│   ├── monthly_report.pdf
+│  
 ├── images/
 │   ├── dashboard_preview.png
 │   ├── energy_usage_chart.png
