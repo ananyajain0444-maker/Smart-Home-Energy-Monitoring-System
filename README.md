@@ -75,18 +75,19 @@ Smart-Home-Energy-Monitoring-System/
 
 ## ⚙️ System Workflow
 
+```text
 Arduino Simulation
-↓
+        ↓
 Data Generation (Python)
-↓
+        ↓
 Energy Calculation
-↓
+        ↓
 Cost Estimation
-↓
+        ↓
 Alert Detection
-↓
-Visualization + Reports
-
+        ↓
+Visualization & Reports
+```
 
 ---
 
