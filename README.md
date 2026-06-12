@@ -70,20 +70,20 @@ Visualization + Reports
 
 ## 📊 Visual Outputs
 
-### Dashboard Preview
-![Dashboard](./outputs/dashboard_preview.png)
+### 📊 Dashboard Preview
+![Dashboard](./images/dashboard_preview.png)
 
-### Energy Usage Chart
-![Energy Usage](./outputs/energy_usage_chart.png)
+### ⚡ Energy Usage Chart
+![Energy Usage](./images/energy_usage_chart.png)
 
-### Monthly Cost Chart
-![Cost](./outputs/monthly_cost_chart.png)
+### 💰 Monthly Cost Chart
+![Cost](./images/monthly_cost_chart.png)
 
-### Alert Notification
-![Alert](./outputs/alert_notification.png)
+### 🚨 Alert Notification
+![Alert](./images/alert_notification.png)
 
-### PDF Report Preview
-![Report](./outputs/pdf_report_preview.png)
+### 📑 PDF Report Preview
+![Report](./images/pdf_report_preview.png)
 
 ## 📈 Key Modules
 
