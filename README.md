@@ -140,7 +140,7 @@ Creates structured PDF reports.
 ## 👩‍💻 Author
 
 **Ananya Jain**  
-IoT & Python Developer
+
 
 ---
 
