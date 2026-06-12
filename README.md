@@ -33,8 +33,9 @@ This project simulates a smart energy monitoring system using **Arduino for data
 
 ---
 
-## 📁 Project Structure
+### 📁 Project Structure
 
+```text
 Smart-Home-Energy-Monitoring-System/
 │
 ├── arduino_code/
@@ -68,7 +69,7 @@ Smart-Home-Energy-Monitoring-System/
 ├── README.md
 ├── LICENSE
 └── .gitignore
-
+```
 
 ---
 
